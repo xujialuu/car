@@ -1,0 +1,26 @@
+<annotation>
+	<folder>truck</folder>
+	<filename>truck_42.jpg</filename>
+	<path>F:\test for car\truck\truck_42.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1250</width>
+		<height>819</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>truck</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>133</xmin>
+			<ymin>79</ymin>
+			<xmax>1081</xmax>
+			<ymax>770</ymax>
+		</bndbox>
+	</object>
+</annotation>

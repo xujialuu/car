@@ -1,0 +1,26 @@
+<annotation>
+	<folder>bus</folder>
+	<filename>bus_23.jpg</filename>
+	<path>F:\test for car\bus\bus_23.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3534</width>
+		<height>2356</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bus</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>234</xmin>
+			<ymin>257</ymin>
+			<xmax>3291</xmax>
+			<ymax>2077</ymax>
+		</bndbox>
+	</object>
+</annotation>

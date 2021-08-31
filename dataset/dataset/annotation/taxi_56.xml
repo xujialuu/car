@@ -1,0 +1,26 @@
+<annotation>
+	<folder>taxi</folder>
+	<filename>taxi_56.jpg</filename>
+	<path>F:\test for car\taxi\taxi_56.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1137</width>
+		<height>762</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>taxi</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>149</ymin>
+			<xmax>1054</xmax>
+			<ymax>703</ymax>
+		</bndbox>
+	</object>
+</annotation>

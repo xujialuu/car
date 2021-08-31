@@ -1,0 +1,5 @@
+truck
+bus
+SUV
+taxi
+car

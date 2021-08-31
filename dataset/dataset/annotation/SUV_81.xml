@@ -1,0 +1,26 @@
+<annotation>
+	<folder>SUV</folder>
+	<filename>SUV_81.jpg</filename>
+	<path>F:\test for car\SUV\SUV_81.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3456</width>
+		<height>4608</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>SUV</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>20</xmin>
+			<ymin>894</ymin>
+			<xmax>3435</xmax>
+			<ymax>3919</ymax>
+		</bndbox>
+	</object>
+</annotation>
